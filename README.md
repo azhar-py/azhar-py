@@ -1,6 +1,9 @@
 👋 Hi, I’m Azhar Khan (@azhar-py)
+
 👀 I’m interested in Backend Development, APIs, and Deep Learning
+
 🌱 I’m currently learning Advanced Laravel, Node.js Microservices, and Machine Learning
+
 💞️ I’m looking to collaborate on Laravel, Python (Flask/Django), and AI-related projects
 
 
